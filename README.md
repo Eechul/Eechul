@@ -15,9 +15,16 @@ Here are some ideas to get you started:
 -->
 <details>
 <summary>
-  What I'm learning now
+  🔭 What I'm learning now
 </summary>
-   I'm getting ready (testing)
+  💬 I'm getting ready (testing)
+</details>
+
+<details>
+<summary>
+  🌱 What I want to lean
+</summary>
+  💬 I'm getting ready (testing)
 </details>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eechul&count_private=true&show_icons=true&theme=dark)
