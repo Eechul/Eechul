@@ -15,25 +15,44 @@ Here are some ideas to get you started:
 -->
 
 ### 📚 Tech Stack
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/></span>
+<br>
+&nbsp;
+<span><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></span>
+<br>
+&nbsp;
+<span><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge"/></span>
+<br>
+&nbsp;
+<span><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></span>
+<br>
 
-
-### Learning
+### 🌱 Learning
 <details>
 <summary>
-  ### 🔭 What I'm learning now
+  🔭 What I'm learning now
 </summary>
-  💬 I'm getting ready (testing)
+  <br>
+  &nbsp; <span><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></span>
 </details>
 <details>
 <summary>
   🌱 What I want to lean
 </summary>
-  💬 I'm getting ready (testing)
+    <br>
+    &nbsp; <span><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/></span>
+    <span><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/></span>
 </details>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eechul&count_private=true&show_icons=true&theme=dark)
+### 💿 Project
+💬 I'm getting ready (testing)
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eechul&count_private=true&show_icons=true&theme=dark) -->
