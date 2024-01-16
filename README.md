@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 </summary>
   <br>
   &nbsp; <span><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/></span>  
 </details>
 <details>
 <summary>
@@ -50,6 +51,8 @@ Here are some ideas to get you started:
     <br>
     &nbsp; <span><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/></span>
     <span><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/></span>
+    <span><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></span>
+  
 </details>
 
 ### 💿 Project
