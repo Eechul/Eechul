@@ -56,6 +56,12 @@ Here are some ideas to get you started:
 </details>
 
 ### 💿 Project
-💬 I'm getting ready (testing)
+&nbsp; Field Project
+  <br>
+  &nbsp; - 💬 I'm getting ready (testing)
+
+&nbsp; Side Project
+  <br>
+  &nbsp; - 💬 I'm getting ready (testing)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eechul&count_private=true&show_icons=true&theme=dark) -->
