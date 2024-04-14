@@ -58,10 +58,12 @@ Here are some ideas to get you started:
 ### 💿 Project
 &nbsp; Field Project
   <br>
-  &nbsp; - 💬 I'm getting ready (testing)
-
+  &nbsp; - 🌐 [공유넷연구소] 공유넷 주문관리 프로그램 <br>
+  &nbsp; - 🔔 [공유넷연구소] 공유넷 알림서비스
+  
 &nbsp; Side Project
   <br>
-  &nbsp; - 💬 I'm getting ready (testing)
+  &nbsp; - 📝 justdoit community (private) <br>
+  &nbsp; - 💬 myguestbook app (public, holding)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eechul&count_private=true&show_icons=true&theme=dark) -->
